@@ -17,16 +17,14 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
    ![Fluter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter)
   <br/>
-  ![SqlServer](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=SqlServer)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=Mysql)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/channel/UCUORUOKKg8Ezj4tBJb_cRUQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Mauro%20Dev-blue?style=flat-square&logo=youtube"></a>
-<a href="https://www.tiktok.com/@devmauro_"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  
-<a href="maurovera069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+<a href="alvaroguzman348@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-alvaroguzman348@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=alvaroSG34&show_icons=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroSG34&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroSG34" /> </p>
