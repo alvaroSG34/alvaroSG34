@@ -2,7 +2,6 @@
 <h2>Computer Engineer</h2>
 
 ### About Me
-- I am 20 years old and I am from Santa Cruz, Bolivia.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working on Software development and learning new technologies.
 - I'm very curious
