@@ -27,7 +27,7 @@
 ### Certifications & Badges
 
 <a href="https://www.credly.com/badges/89673d8f-4e3c-40a5-97f6-49f845628fab/public_url">
-  <img src="./aws-cloud-practitioner.png"
+  <img src="./aws-simulearn-cloud-practitioner-training-badge.png"
        alt="AWS SimuLearn - Cloud Practitioner - Training Badge"
        width="140">
 </a>
@@ -38,8 +38,4 @@
   <img alt="Email" src="https://img.shields.io/badge/Gmail-alvaroguzman348@gmail.com-blue?style=flat-square&logo=gmail">
 </a>
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=alvaroSG34&show_icons=true)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alvaroSG34&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroSG34" />
-</p>
