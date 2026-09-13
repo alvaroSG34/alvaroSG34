@@ -1,6 +1,6 @@
 <h1>Hello! I'm Alvaro Sonco Guzman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
-<h2>Computer Engineer</h2>
+<h2>Computer Science Engineer</h2>
 
 ### About Me
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
